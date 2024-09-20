@@ -46,7 +46,7 @@ The game features dark, moody, realistic 3D graphics, emphasizing realism in a m
 ### Design:
 The art style focuses on realism, with intricate textures for the environment and atmospheric lighting. Rain-soaked windows, polished wooden floors, and luxurious but eerie halls emphasize the contrast between the lavish setting and the danger lurking within.
 ### Audio
-####Sound Effects:
+#### Sound Effects:
 The game features realistic sound design, with heavy emphasis on environmental sounds. Rain pattering against windows, thunder rumbling in the distance, footsteps echoing in empty hallways, and the rustle of FBI agents' tactical gear all immerse the player in the experience.
 
 ### Music:
