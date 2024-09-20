@@ -2,6 +2,8 @@
 
 ![Posnetek zaslona 2024-09-20 173206](https://github.com/user-attachments/assets/7b8291c1-25d9-438b-9ef0-8b2ec756973b)
 
+![Posnetek zaslona 2024-09-20 173144](https://github.com/user-attachments/assets/d8cec878-c9f2-4059-a867-7d253fa94346)
+
 ### Design Document
 By Ken
 
