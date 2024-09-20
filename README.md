@@ -1,4 +1,4 @@
-## Silent Heist: Mansion Infiltration
+## Silent Heist 
 ### Design Document
 By Ken
 
