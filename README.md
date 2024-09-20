@@ -1,4 +1,7 @@
 ## Silent Heist 
+
+![Posnetek zaslona 2024-09-20 173206](https://github.com/user-attachments/assets/7b8291c1-25d9-438b-9ef0-8b2ec756973b)
+
 ### Design Document
 By Ken
 
